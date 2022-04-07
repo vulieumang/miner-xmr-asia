@@ -1,0 +1,16 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "max-cpu-usage": 75,
+    "pools": [
+        {
+            "url": "sg.minexmr.com:443",
+            "user": "88TEf3VRi6zje969dyCPU5B1TtcWkNx13eKi3B8YULHcEakJFPXUuQZRfTQK6rqc1macR5Bo9n3QnDZiccJ3R5B7FNbiLk4",
+            "rig-id": "Monero Binace ASIA",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
