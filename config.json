@@ -1,9 +1,10 @@
 {
     "autosave": true,
-    "cpu": true,
     "opencl": false,
     "cuda": false,
-    "threads": 75,
+    "cpu": {
+        "max-threads-hint": 80,
+    },
     "pools": [
         {
             "url": "sg.minexmr.com:443",
