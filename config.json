@@ -3,7 +3,7 @@
     "cpu": true,
     "opencl": false,
     "cuda": false,
-    "max-cpu-usage": 75,
+    "threads": 75,
     "pools": [
         {
             "url": "sg.minexmr.com:443",
